@@ -3,13 +3,15 @@ Arduino 101
 by Øyvind Aardal
 Arduino faggruppemøte 24.01.2012
 
-helloworld21	21.01.2012	Hello World 2.1 - a bit more advanced hello world for Arduino 1.0 introducing soft PWM
-helloworld21pwm	21.01.2012	Hello World 2.1 - modified to use PWM and count "nop()" - just to demonstrate that sleep is not always the best strategy
-RotaryEncoder	21.01.2012	Rotary Encoder sample - just slight modifications from the arduino.cc tutorial
-fsmtime			21.01.2012	Finite State Machine - using library http://wiring.uniandes.edu.co/source/trunk/wiring/firmware/libraries/FSM/
-							Implements a simple state table with 2 timed states and 2 states dividing the rest of the CPU time
-							In DEBUG mode: Calculates the number of passes and displays these frequencies by printing to Serial
-							
+helloworld21		21.01.2012	Hello World 2.1 - a bit more advanced hello world for Arduino 1.0 introducing soft PWM
+helloworld21pwm		21.01.2012	Hello World 2.1 - modified to use PWM and count "nop()" - just to demonstrate that sleep is not always the best strategy
+RotaryEncoder		21.01.2012	Rotary Encoder sample - just slight modifications from the arduino.cc playground - Sketch by max wolf / www.meso.net
+fsmtime				21.01.2012	Finite State Machine - using library http://wiring.uniandes.edu.co/source/trunk/wiring/firmware/libraries/FSM/
+								Implements a simple state table with 2 timed states and 2 states dividing the rest of the CPU time
+								In DEBUG mode: Calculates the number of passes and displays these frequencies by printing to Serial
+energyMeterLDR		22.01.2012	Simple energy meter with loads of debugging information using a LDR to count impulses on home energy meter
+Arduino 101.pdf		22.01.2012	PDF version of presentation
+					
 Powerpoint (too large to store here) available upon request: oyvind@aardal.com
 
-Enjoy.
+Enjoy. http://creativecommons.org/licenses/by-sa/3.0/
