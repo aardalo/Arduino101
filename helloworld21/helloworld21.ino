@@ -1,4 +1,4 @@
-#define ledPin 13                         // LED connected to pin 13
+#define ledPin 11                         // LED connected to pin 11
 #define buttonPin 2                       // button connected to pin 2
 
 void setup() {                
